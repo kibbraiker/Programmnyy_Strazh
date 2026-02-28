@@ -1,0 +1,11 @@
+{
+    "host": "localhost",
+    "port": 8888,
+    "database_path": "database/software_guard.db",
+    "log_level": "INFO",
+    "log_file": "logs/server.log",
+    "password_hash_algorithm": "sha256",
+    "session_timeout": 3600,
+    "max_login_attempts": 5
+}
+

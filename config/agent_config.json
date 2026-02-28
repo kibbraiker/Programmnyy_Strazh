@@ -1,0 +1,10 @@
+{
+    "server_host": "localhost",
+    "server_port": 8888,
+    "scan_interval": 3600,
+    "log_level": "INFO",
+    "log_file": "logs/agent.log",
+    "retry_attempts": 3,
+    "retry_delay": 60
+}
+
